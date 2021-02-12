@@ -2,20 +2,26 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
+*** Our industry is activewear industry.The global activewear market size reached 288.42 billion in 2020 and the annual market growth rate is increasing year by year. Market growth includes fashion trends and the development of the activewear manufacturing technology. 
+Primary activities are researching, designing and prototyping specialized raw material that we need for our products. Also research and development activities on processing our raw material with engineers.
+Support activities are management, human resources management and finance
+* Your company's name:ACTIV3D
 ***
-* Your company's name:
-***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 339920
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+Acushnet Holdings: 5209
+Callaway Golf company: 2400
+Coleman Company: 3690
+
 ***
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 7873
 ***
-* List of your company's primary activities divided into engineering activities and operations activities:
+* List of your company's primary activities divided into engineering activities and operations activities: Engineering activities are design,prototyping and R&D. Operation activities are setting up tools such as 3D machines, handling inventory products and lastly finishing and quality control of products.
 ***
-* List of your company's support activities:
+* List of your company's support activities: Planning our primary activities,´human resources management, general management and finance.
 ***
 
 ## Task 2
