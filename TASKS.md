@@ -28,35 +28,102 @@ Coleman Company: 3690
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 11-2022.00 - Sales Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
+-Direct and coordinate activities involving sales of manufactured products, services, commodities, real estate or other subjects of sale.See more occupations related to this task.
+-Resolve customer complaints regarding sales and service.See more occupations related to this task.
+-Review operational records and reports to project sales and determine profitability.See more occupations related to this task.
+-Oversee regional and local sales managers and their staffs.See more occupations related to this task.
+-Determine price schedules and discount rates.See more occupations related to this task.
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
+-Persuasion — Persuading others to change their minds or behavior.See more occupations related to this skill.
+-Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+-Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
+-Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
+-Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
 * 5 technology skills:
+* - Business intelligence and data analysis software — IBM Cognos Impromptu Hot technology ; Oracle Business Intelligence Enterprise Edition Hot technology ; Qlik Tech QlikView Hot technology ; Tableau Hot technologySee more occupations related to this technology.
+-Customer relationship management CRM software — HEAT Software GoldMine; Oracle Eloqua; Salesforce software Hot technology ; Vanguard Software Vanguard Sales ManagerSee more occupations related to this technology.
+-Data base user interface and query software — Data entry software Hot technology ; Microsoft Access Hot technology ; Oracle software Hot technology ; Structured query language SQL Hot technologySee more occupations related to this technology.
+-Electronic mail software — IBM Notes Hot technology ; Microsoft Exchange Server Hot technology ; Microsoft Outlook Hot technologySee more occupations related to this technology.
+-Enterprise resource planning ERP software Hot technology — Microsoft Dynamics Hot technology ; NetSuite ERP Hot technology ; Oracle PeopleSoft Hot technology ; SAP Hot technology
 * Education:
+65   	Bachelor's degree
+13   	Associate's degree
+9   	Post-baccalaureate certificate
 * Wages:
+Median wages (2019)	$60.89 hourly, $126,640 annual
 * Top industry:
+Wholesale Trade
+Retail Trade
 ### Engineers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 17-2131.00 - Materials Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
+-Analyze product failure data and laboratory test results to determine causes of problems and develop solutions.See more occupations related to this task.
+-Design and direct the testing or control of processing procedures.See more occupations related to this task.
+-Monitor material performance and evaluate material deterioration.See more occupations related to this task.
+-Conduct or supervise tests on raw materials or finished products to ensure their quality.See more occupations related to this task.
+-Evaluate technical specifications and economic factors relating to process or product design objectives.See more occupations related to this task.
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills
-* Education:
-* Wages:
-* Top industry:
-### Operators
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
+-Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+-Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.See more occupations related to this skill.
+-Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+-Science — Using scientific rules and methods to solve problems.See more occupations related to this skill.
+-Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
 * 5 technology skills:
+-Analytical or scientific software — Fault detection isolation and recovery FDIR software; Image analysis systems; Minitab Hot technology ; The MathWorks MATLAB Hot technologySee more occupations related to this technology.
+-Computer aided design CAD software Hot technology — Autodesk AutoCAD Hot technology ; Dassault Systemes CATIA; Dassault Systemes SOLIDWORKS Hot technology ; PTC Creo --ParametricSee more occupations related to this technology.
+-Computer aided manufacturing CAM software — Fused deposition modeling FDM rapid prototyping systems; Stereolithography SLA rapid prototyping systemsSee more occupations related to this technology.
+-Data base user interface and query software — Data entry software Hot technology ; Microsoft Access Hot technology ; MTS Testworks; QMC CM4DSee more occupations related to this technology.
+Development environment software — Formula translation/translator FORTRAN; Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technology
 * Education:
+48   	Bachelor's degree
+33   	Doctoral degree
+10   	Master's degree
 * Wages:
+Median wages (2019)	$44.88 hourly, $93,360 annual
 * Top industry:
+Manufacturing
+Professional, Scientific, and Technical Services
+### Operators
+* ONET-SOC code and title:49-9041.00 - Industrial Machinery Mechanics
+* 5 most important tasks they carry out (provide the importance score, in Details):
+-Repair or maintain the operating condition of industrial production or processing machinery or equipment.See more occupations related to this task.
+-Repair or replace broken or malfunctioning components of machinery or equipment.See more occupations related to this task.
+-Disassemble machinery or equipment to remove parts and make repairs.See more occupations related to this task.
+-Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices.See more occupations related to this task.
+-Reassemble equipment after completion of inspections, testing, or repairs.
+* Is this job routine? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10):
+* 5 most important skills they require to possess (provide the importance score, in Details):
+-Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.See more occupations related to this skill.
+-Repairing — Repairing machines or systems using the needed tools.See more occupations related to this skill.
+-Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.
+-Troubleshooting — Determining causes of operating errors and deciding what to do about it.See more occupations related to this skill.
+-Operation and Control — Controlling operations of equipment or systems.
+
+* 5 technology skills:
+-Data base user interface and query software — Data entry software Hot technology ; Maintenance planning and control softwareSee more occupations related to this technology.
+-Electronic mail software — Microsoft Outlook Hot technologySee more occupations related to this technology.
+-Enterprise resource planning ERP software Hot technology — SAP Hot technologySee more occupations related to this technology.
+-Industrial control software — BIT Corp ProMACS PLC; KEYENCE PLC Ladder Logic; Supervisory control and data acquisition SCADA software Hot technologySee more occupations related to this technology.
+-Spreadsheet software — Microsoft Excel Hot technology
+
+* Education:
+48   	Post-secondary certificate Help
+25   	High school diploma or equivalent Help
+8   	Bachelor's degree
+
+* Wages:
+Median wages (2019)	$25.77 hourly, $53,590 annual
+
+* Top industry:
+Manufacturing
+Other Services (Except Public Administration)
 ***
 
 ## Task 3
