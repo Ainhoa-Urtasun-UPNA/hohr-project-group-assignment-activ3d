@@ -2,22 +2,21 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
-*** Our industry is activewear industry.The global activewear market size reached 288.42 billion in 2020 and the annual market growth rate is increasing year by year. Market growth includes fashion trends and the development of the activewear manufacturing technology. 
-Primary activities are researching, designing and prototyping specialized raw material that we need for our products. Also research and development activities on processing our raw material with engineers.
+*** Our industry is footwear industry.Footwear is the second most important fashion segment within the retail business just behind Apparel. This industry comprises establishments primarly engaged in manufacturing footwear. The global footwear market size was valued at $365.5 billion in 2020, and is projected to reach $530.3 billion by 2027 and the annual market growth rate is increasing year by year. With 3D printing we will produce comfortable designs with special textile as well as customer specialized footwear with the support of 3d scan of the customers own foot.
+Primary activities are researching, designing and prototyping specialized raw material that we need for our products. Also research and development activities on processing our raw material with engineers. 
 Support activities are management, human resources management and finance
 * Your company's name:ACTIV3D
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 339920
-
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 316210
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
-Acushnet Holdings: 5209
-Callaway Golf company: 2400
-Coleman Company: 3690
+Skechers USA Inc: 12600
+Reebok International Ltd: 9102
+Teven Madden Ltd: 3900
 
 ***
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 7873
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 688
 ***
 * List of your company's primary activities divided into engineering activities and operations activities: Engineering activities are design,prototyping and R&D. Operation activities are setting up tools such as 3D machines, handling inventory products and lastly finishing and quality control of products.
 ***
