@@ -130,6 +130,7 @@ Other Services (Except Public Administration)
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
+We have solve the matrix M according to the information from the statement. This matrix represents the managers, engineers and operators who have stayed or moved to other places. As well we have done the matrix D which is a diagonal matrix where we can see the total number of employees of each sector at the beginning. Finally, matrix b we have chossen 2 managers, 2 engineers and 1 operator. The final result we got is 1 manager, 1 engeneer and 1 operator in our firm. 
 
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
