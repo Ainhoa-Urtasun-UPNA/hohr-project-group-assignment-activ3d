@@ -139,6 +139,9 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
+We have solved the matrix X and Y using the information provided in the statement. The first 3 rows of this matrixes represent the managers of 3 different years. The following 3 rows are related to engineers and the last 3 rows to operators (for 3 different years also). The values in matrix X are data on unemployment (in percentage). On the other hand, values in matrix Y are workers on average (per firm). The final result we got is 4 managers, 12 engineers and 7 operators. 
+
+
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
