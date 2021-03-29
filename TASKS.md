@@ -150,6 +150,8 @@ We have solved the matrix X and Y using the information provided in the statemen
 Sales Manager, ONET-SOC code : 11-2022.00
 Industry NAICS-code: 316210
 Job type: Full-time
+Location: Pamplona, Spain
+Salary: 30,000€ - 50,000€ a year
 Tasks:
 -Analyze data, performance and customer experience trends to develop and implement strategic sales plays and best practice for client/specific territories
 -Effective client management having a clear view on account and how to maximize revenue as well as effectively communicating quarterly objectives to client
@@ -163,6 +165,8 @@ Skills:
 Materials Engineer, ONET-SOC code : 17-2131.00
 Industry NAICS-code: 316210
 Job type: Full-time
+Location: Pamplona, Spain
+Salary: 75,000€ - 95,000€ a year
 Taks:
 -Developing, modifying, testing and evaluating materials.
 -Providing technical advice about the suitability of materials.
@@ -182,6 +186,8 @@ Skills:
 Industrial Machinery Mechanics, ONET-SOC code: 49-9041.00
 Industry NAICS-code: 316210
 Job type: Full-time
+Location: Pamplona, Spain
+Salary: 20,000€ - 30,000€ a year
 Taks:
 -Perform regular preventative Maintenance on all equipment.
 -Perform mechanical trouble shooting and repair of equipment.
