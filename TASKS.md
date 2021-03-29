@@ -147,18 +147,48 @@ We have solved the matrix X and Y using the information provided in the statemen
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
-Sales Manager 
+Sales Manager, ONET-SOC code : 11-2022.00
 Tasks:
 -Analyze data, performance and customer experience trends to develop and implement strategic sales plays and best practice for client/specific territories
 -Effective client management having a clear view on account and how to maximize revenue as well as effectively communicating quarterly objectives to client
 -Collaborate with cross-functional teams and management to optimize sales processes, systems and achieve a superior customer experience
 Skills:
-Bachelor’s degree
-Minimum 3 years proven work experience in a sales leadership role (or similar)
-Excellent people management, leadership and coaching skills, listening and problem-solving skills, verbal and written communication skills, both internally and externally
-
+-Bachelor’s degree
+-Minimum 3 years proven work experience in a sales leadership role (or similar)
+-Excellent people management, leadership and coaching skills, listening and problem-solving skills, verbal and written communication skills, both internally and externally, strong knowledge of MS Office programs, Ability to maximize revenue through best practices.
+-Demonstrated ability to make timely and sound decisions; make decisions under conditions of uncertainty or limited data; evaluate short- and long-term consequences
 ### Job posting for Engineers:
+Materials Engineer, ONET-SOC code : 17-2131.00
+Taks:
+-Developing, modifying, testing and evaluating materials.
+-Providing technical advice about the suitability of materials.
+-Diagnosing faults.
+-Supervising engineering and technical staff.
+-Liaising with suppliers, customers and manufacturing/development staff.
+Skills:
+-Sound scientific and technical knowledge
+-Analytical skills
+-Confidence, leadership skills, effective organisational skills, communication and interpersonal skills, teamworking skills.
+-Commercial awareness, attention to detail
+-Must possess a Bachelor’s Degree in Engineering or equivalent. (Internal qualification - Bachelor’s degree in Engineering or equivalent or Product Design/Sr.Product Designer with 5 or more years of experience at Timpte.)
+-Must have working knowledge of Microsoft Office programs; including Word, Excel, etc. Ability to operate a CAD system and software is required.
+-Technical writing experience required.
+-Must have an understanding of a wide range of materials and production processes.
 ### Job posting for Operators:
+Industrial Machinery Mechanics, ONET-SOC code: 49-9041.00
+Taks:
+-Perform regular preventative Maintenance on all equipment.
+-Perform mechanical trouble shooting and repair of equipment.
+-Weld and perform metal fabrication of parts in need of repair
+-Conduct hydraulic and pneumatic troubleshooting and repair
+Skills:
+-Experience or schooling in the following areas are preferred: Industrial Maintenance.
+-Ability to lift up to 50lbs-70lbs.
+-Ability to effectively use hand tools.
+-Ability to sit or stand for an entire shift.
+-Requires intermittent periods of bending, reaching, pulling, and stooping.
+-Electromechanical and Electronic servicing or any related mechanical field.
+
 ***
 
 ## Task 6
