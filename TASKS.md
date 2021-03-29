@@ -147,6 +147,16 @@ We have solved the matrix X and Y using the information provided in the statemen
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+Sales Manager 
+Tasks:
+-Analyze data, performance and customer experience trends to develop and implement strategic sales plays and best practice for client/specific territories
+-Effective client management having a clear view on account and how to maximize revenue as well as effectively communicating quarterly objectives to client
+-Collaborate with cross-functional teams and management to optimize sales processes, systems and achieve a superior customer experience
+Skills:
+Bachelor’s degree
+Minimum 3 years proven work experience in a sales leadership role (or similar)
+Excellent people management, leadership and coaching skills, listening and problem-solving skills, verbal and written communication skills, both internally and externally
+
 ### Job posting for Engineers:
 ### Job posting for Operators:
 ***
