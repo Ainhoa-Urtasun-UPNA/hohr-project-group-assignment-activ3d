@@ -149,6 +149,7 @@ We have solved the matrix X and Y using the information provided in the statemen
 ### Job posting for Managers:
 Sales Manager, ONET-SOC code : 11-2022.00
 Industry NAICS-code: 316210
+Job type: Full-time
 Tasks:
 -Analyze data, performance and customer experience trends to develop and implement strategic sales plays and best practice for client/specific territories
 -Effective client management having a clear view on account and how to maximize revenue as well as effectively communicating quarterly objectives to client
@@ -161,6 +162,7 @@ Skills:
 ### Job posting for Engineers:
 Materials Engineer, ONET-SOC code : 17-2131.00
 Industry NAICS-code: 316210
+Job type: Full-time
 Taks:
 -Developing, modifying, testing and evaluating materials.
 -Providing technical advice about the suitability of materials.
@@ -179,6 +181,7 @@ Skills:
 ### Job posting for Operators:
 Industrial Machinery Mechanics, ONET-SOC code: 49-9041.00
 Industry NAICS-code: 316210
+Job type: Full-time
 Taks:
 -Perform regular preventative Maintenance on all equipment.
 -Perform mechanical trouble shooting and repair of equipment.
