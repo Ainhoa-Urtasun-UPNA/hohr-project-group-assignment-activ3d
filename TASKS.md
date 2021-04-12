@@ -206,7 +206,7 @@ Skills:
 -Ability to sit or stand for an entire shift.
 -Requires intermittent periods of bending, reaching, pulling, and stooping.
 -Electromechanical and Electronic servicing or any related mechanical field.
-job vacancies: 7
+job vacancies: 6
 predicted shortage: 6
 the automation risk percentage :67%
 ***
