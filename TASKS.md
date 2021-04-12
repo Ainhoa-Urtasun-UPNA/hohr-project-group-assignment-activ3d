@@ -161,6 +161,7 @@ Skills:
 -Minimum 3 years proven work experience in a sales leadership role (or similar)
 -Excellent people management, leadership and coaching skills, listening and problem-solving skills, verbal and written communication skills, both internally and externally, strong knowledge of MS Office programs, Ability to maximize revenue through best practices.
 -Demonstrated ability to make timely and sound decisions; make decisions under conditions of uncertainty or limited data; evaluate short- and long-term consequences
+the automation risk percentage : 1%
 ### Job posting for Engineers:
 Materials Engineer, ONET-SOC code : 17-2131.00
 Industry NAICS-code: 316210
@@ -182,6 +183,7 @@ Skills:
 -Must have working knowledge of Microsoft Office programs; including Word, Excel, etc. Ability to operate a CAD system and software is required.
 -Technical writing experience required.
 -Must have an understanding of a wide range of materials and production processes.
+the automation risk percentage :2%
 ### Job posting for Operators:
 Industrial Machinery Mechanics, ONET-SOC code: 49-9041.00
 Industry NAICS-code: 316210
@@ -200,7 +202,7 @@ Skills:
 -Ability to sit or stand for an entire shift.
 -Requires intermittent periods of bending, reaching, pulling, and stooping.
 -Electromechanical and Electronic servicing or any related mechanical field.
-
+the automation risk percentage :67%
 ***
 
 ## Task 6
