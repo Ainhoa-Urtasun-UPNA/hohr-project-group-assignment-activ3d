@@ -162,7 +162,7 @@ Skills:
 -Excellent people management, leadership and coaching skills, listening and problem-solving skills, verbal and written communication skills, both internally and externally, strong knowledge of MS Office programs, Ability to maximize revenue through best practices.
 -Demonstrated ability to make timely and sound decisions; make decisions under conditions of uncertainty or limited data; evaluate short- and long-term consequences
 job vacancies:
-predicted shortage.
+predicted shortage: 3
 the automation risk percentage : 1%
 ### Job posting for Engineers:
 Materials Engineer, ONET-SOC code : 17-2131.00
@@ -186,7 +186,7 @@ Skills:
 -Technical writing experience required.
 -Must have an understanding of a wide range of materials and production processes.
 job vacancies:
-predicted shortage:
+predicted shortage: 11
 the automation risk percentage :2%
 ### Job posting for Operators:
 Industrial Machinery Mechanics, ONET-SOC code: 49-9041.00
@@ -207,7 +207,7 @@ Skills:
 -Requires intermittent periods of bending, reaching, pulling, and stooping.
 -Electromechanical and Electronic servicing or any related mechanical field.
 job vacancies:
-predicted shortage:
+predicted shortage: 6
 the automation risk percentage :67%
 ***
 
