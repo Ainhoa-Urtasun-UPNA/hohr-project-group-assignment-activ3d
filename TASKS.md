@@ -161,7 +161,7 @@ Skills:
 -Minimum 3 years proven work experience in a sales leadership role (or similar)
 -Excellent people management, leadership and coaching skills, listening and problem-solving skills, verbal and written communication skills, both internally and externally, strong knowledge of MS Office programs, Ability to maximize revenue through best practices.
 -Demonstrated ability to make timely and sound decisions; make decisions under conditions of uncertainty or limited data; evaluate short- and long-term consequences
-job vacancies:
+job vacancies: 5
 predicted shortage: 3
 the automation risk percentage : 1%
 ### Job posting for Engineers:
@@ -185,7 +185,7 @@ Skills:
 -Must have working knowledge of Microsoft Office programs; including Word, Excel, etc. Ability to operate a CAD system and software is required.
 -Technical writing experience required.
 -Must have an understanding of a wide range of materials and production processes.
-job vacancies:
+job vacancies: 12
 predicted shortage: 11
 the automation risk percentage :2%
 ### Job posting for Operators:
@@ -206,7 +206,7 @@ Skills:
 -Ability to sit or stand for an entire shift.
 -Requires intermittent periods of bending, reaching, pulling, and stooping.
 -Electromechanical and Electronic servicing or any related mechanical field.
-job vacancies:
+job vacancies: 7
 predicted shortage: 6
 the automation risk percentage :67%
 ***
