@@ -2,10 +2,26 @@
 
 ### About ACTIV3D
 Our mission is what drives us to do everything possible to expand human potential. We do that by creating groundbreaking sport innovations, by making our products more sustainably, by building a creative and diverse global team and by making a positive impact in communities where we live and work. THIS IS FOR NIKE BUT WE CAN WRITE SOMTHING SIMILAR
+NAICScode:316210
 
 ![Image](Zapatilla.jpg)
 
-###
+### TITLE 2
+
+
+
+### TITLE 3
+
+
+
+
+### TITLE 4
+
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
@@ -36,12 +52,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-activ3d/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
