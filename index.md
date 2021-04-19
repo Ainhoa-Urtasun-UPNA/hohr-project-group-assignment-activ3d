@@ -1,4 +1,4 @@
-![Image](ACTIV3D.pdf)
+![Image](ACTIV3D logo.jpg)
 
 
 
