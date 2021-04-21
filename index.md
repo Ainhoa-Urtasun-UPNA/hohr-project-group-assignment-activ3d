@@ -7,12 +7,11 @@ NAICScode:316210
 
 ![Image](Zapatilla.jpg)
 
-### TITLE 2
-
+### PRIMARY AND SUPPORT ACTIVITIES
 
 
 ### TITLE 3
-
+![Image](MANAGERS ENGINEERS OPERATORS.jpg)
 
 
 ### WORK WITH US!
