@@ -9,7 +9,7 @@ NAICScode:316210
 
 ### Primary and support activities
 
-
+![Image](Primary activities.jpg)
 ![Image](SALES MANAGER.jpg)
 
 ### Team and predictions
