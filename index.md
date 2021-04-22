@@ -7,16 +7,16 @@ NAICScode:316210
 
 ![Image](Zapatilla.jpg)
 
-### PRIMARY AND SUPPORT ACTIVITIES
+### Primary and support activities
 
 
 ![Image](SALES MANAGER.jpg)
 
-### TEAM AND PREDICTIONS
+### Team and predictions
 ![Image](MANAGERS ENGINEERS OPERATORS.jpg)
 
 
-### WORK WITH US!
+### Work with us!
 ![Image](LAST TABLE.jpg)
 
 
