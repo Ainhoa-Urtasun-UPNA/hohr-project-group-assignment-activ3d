@@ -13,7 +13,7 @@ Support activities are management, human resources management and finance
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 Skechers USA Inc: 12600
 Reebok International Ltd: 9102
-Teven Madden Ltd: 3900
+Steve Madden Ltd: 3900
 
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 688
