@@ -34,8 +34,8 @@ Teven Madden Ltd: 3900
 -Review operational records and reports to project sales and determine profitability.
 -Oversee regional and local sales managers and their staffs.
 -Determine price schedules and discount rates.
-* Is this job routine? Your judgment (0-10): 6
-* Is this job cognitive? Your judgment (0-10): 5
+* Is this job routine? Your judgment (0-10): 8
+* Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
 -Persuasion — Persuading others to change their minds or behavior.
 -Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
@@ -65,8 +65,8 @@ Retail Trade
 -Monitor material performance and evaluate material deterioration.
 -Conduct or supervise tests on raw materials or finished products to ensure their quality.
 -Evaluate technical specifications and economic factors relating to process or product design objectives.
-* Is this job routine? Your judgment (0-10): 8
-* Is this job cognitive? Your judgment (0-10): 5
+* Is this job routine? Your judgment (0-10): 10
+* Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
 -Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
 -Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
@@ -97,7 +97,7 @@ Professional, Scientific, and Technical Services
 -Observe and test the operation of machinery or equipment to diagnose malfunctions, using voltmeters or other testing devices.
 -Reassemble equipment after completion of inspections, testing, or repairs.
 * Is this job routine? Your judgment (0-10): 8
-* Is this job cognitive? Your judgment (0-10):5
+* Is this job cognitive? Your judgment (0-10): 3
 * 5 most important skills they require to possess (provide the importance score, in Details):
 -Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.
 -Repairing — Repairing machines or systems using the needed tools.
