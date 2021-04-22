@@ -5,7 +5,7 @@ Our mission is to achieve and improve human potential capabilities. To fulfill o
 NAICScode:316210
 
 ![Image](Zapatilla.jpg)
-![Image](Primary activities.jpg)
+![Image](Primary activities (1).jpg)
 
 ![Image](SALES MANAGER.jpg)
 
